@@ -1,6 +1,9 @@
+import Header from '../components/header'
+
 const Index = () => (
   <div>
-    <p>Hello Next.js</p>
+    <Header />
+    <p>Hello Gitpod!</p>
   </div>
 )
 
